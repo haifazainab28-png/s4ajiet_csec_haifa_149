@@ -5,7 +5,6 @@ public class revarr{
         System.out.println("Enter the number of elements:");
         int n=s.nextInt();
         int[] a=new int[n];
-        int[] b=new int[n];
         System.out.println("Enter "+n+"Elements");
         for(int i=0;i<n;i++){
             a[i]=s.nextInt();
